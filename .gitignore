@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.streamlit/
+*.bak
+*.tmp
+TOSS
+dashboard_v1.py
+debug_kis.py
+StockDragonfly2.png
